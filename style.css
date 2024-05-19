@@ -5,9 +5,48 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-.top{
-  height: 50px;
-  width: 100%
+.topic{
+  margin-left:30px;
+
+}
+.shutki{
+  margin-top: 190px;
+}
+.main{
+  height: 100px;
+}
+.k{ 
+margin-top:300px;
+width:1800px;
+height: 50vh;
+display: flex;
+margin-left:30px;
+  } 
+.last{
+margin-left: 30px;
+
+}
+  h3{ 
+  font-size: 45px;
+    margin-right: 30px;
+    color:black;
+  } 
+nav {
+  background-color: #161313;
+  padding: 10px 0;
+  text-align: center;
+  height: 10vh;
+}
+.vtoroy{
+    margin-top: 170px;
+}
+.box{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.a{
+  font-size: 150px;
+  color: #000;
 }
 .about{
     margin-top: 50px;
@@ -24,6 +63,7 @@
 }
 .about{
   width: 1130px;
+  height:70vh;
   max-width: 85%;
   margin: 0 auto;
   display: flex;
@@ -41,8 +81,8 @@
 }
 .h6{
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
-
+  color: rgb(0, 0, 0);
+  font-size:2000px;
 }
 .text h5{
   font-size: 22px;
@@ -197,20 +237,20 @@ span{
     background-color: white;
     height:130px;
     width:800px;
-    margin-left:1000px
+    margin-left:1100px
 }
 .tri{
     
     background-color: white;
     height:300px;
     width:800px;
-    margin-right: 30px;
+    margin-left: 30px;
 }
 .t11{
   size: 20px;
 }
 .center{
-    margin-left:710px;
+    margin-left:800px;
     height: 500px;
     width: 500px;
     background-color: white;
@@ -219,7 +259,7 @@ span{
     bottom:0;
     right: 0;
     position: absolute;
-    margin-top: 1700px;
+    margin-top: 3500px;
 }
 span{
   left:10%;
